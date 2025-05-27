@@ -1,0 +1,5 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore the specific CSV file
+All_external.csv

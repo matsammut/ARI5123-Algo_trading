@@ -1,0 +1,6 @@
+numpy==1.24.4
+pandas>=2.2.0
+yfinance==0.2.61
+gensim==4.3.3
+nltk==3.9.1
+scikit-learn==1.2.2
