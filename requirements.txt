@@ -5,3 +5,4 @@ gensim==4.3.3
 nltk==3.9.1
 scikit-learn==1.2.2
 torch==2.7.0
+matplotlib==3.10.3
